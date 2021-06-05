@@ -54,7 +54,7 @@
  #define stepPin      3    // stepmoto clk pin
  #define enPin        4    // stepmoto     enable pin
  #define runPin       6    // run          enable pin
- #define homePin      12    // home sensor  enable pin
+ #define homePin      5    // home sensor  enable pin
  
 
 // Stepmoto parameter 
